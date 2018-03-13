@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  main:
+    image: bobdrummond/discord-irc
+    build: .
+    volumes:
+      - ./config.json:/config.json:ro

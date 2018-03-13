@@ -1,0 +1,1 @@
+Quick docker wrapper for [discord-irc](https://github.com/reactiflux/discord-irc).
